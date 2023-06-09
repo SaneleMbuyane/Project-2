@@ -1,0 +1,68 @@
+﻿
+
+
+body {
+    background-color: #30be92 !important;
+    
+}
+
+.container {
+    border: 1px solid seagreen !important;
+    background-color: #a6d3ba !important;
+    
+}
+
+.bg-dark {
+    background-color: black !important;
+}
+
+.nav-item:hover {
+    background-color: gray !important;
+    color: white !important;
+}
+
+.active {
+    background-color: seagreen !important;
+}
+
+.nav-item {
+    border-left: 1px solid white;
+}
+.navbar {
+    --bs-navbar-padding-y: -5.5rem !important;
+}
+.div1 {
+    background-color: white;
+    border: 1px solid seagreen;
+    border-width: medium;
+    height: 200px;
+    width: 100%;
+}
+.img1 {
+    float: left;
+    margin-right: 10px;
+    position: relative;
+    left: 5px;
+    width: 150px;
+    height: 150px;
+}
+.img2 {
+    float: right;
+    margin-right: 25px;
+    position: relative;
+    left: 5px;
+    width: 150px;
+    height: 150px;
+}
+h5 {
+    position: relative;
+    left: 10px;
+}
+table {
+    width: 50%;
+    position: relative;
+    left: 40px;
+}
+
+
+
